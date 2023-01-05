@@ -1,0 +1,1 @@
+# Malaria-cell_detection-Fast-API-Deep-Learning
